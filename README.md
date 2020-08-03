@@ -1,6 +1,6 @@
-# signin_app
+# Flutter signin_app
 
-Projeto simples de login com Flutter.
+A simple signin project built with Flutter.
 
 ## Tecnologias utilizadas
 
